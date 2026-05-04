@@ -1,3 +1,4 @@
+//OPCION C
 #include <iostream>
 #include <string>
 
